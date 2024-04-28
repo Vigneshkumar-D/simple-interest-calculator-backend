@@ -1,4 +1,4 @@
-package com.simpleintrestcalculater.entity;
+package com.simpleinterestcalculator.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

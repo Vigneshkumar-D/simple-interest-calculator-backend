@@ -1,4 +1,4 @@
-package com.simpleintrestcalculater.configuration;
+package com.simpleinterestcalculator.configuration;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

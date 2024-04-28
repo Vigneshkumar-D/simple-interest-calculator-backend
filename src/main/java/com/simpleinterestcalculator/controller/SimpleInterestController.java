@@ -1,7 +1,7 @@
-package com.simpleintrestcalculater.controller;
+package com.simpleinterestcalculator.controller;
 
-import com.simpleintrestcalculater.entity.SimpleInterest;
-import com.simpleintrestcalculater.service.SimpleInterestService;
+import com.simpleinterestcalculator.entity.SimpleInterest;
+import com.simpleinterestcalculator.service.SimpleInterestService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

@@ -1,6 +1,6 @@
-package com.simpleintrestcalculater.service;
+package com.simpleinterestcalculator.service;
 
-import com.simpleintrestcalculater.entity.SimpleInterest;
+import com.simpleinterestcalculator.entity.SimpleInterest;
 import org.springframework.stereotype.Service;
 
 import java.text.DecimalFormat;
