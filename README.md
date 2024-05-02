@@ -1,7 +1,3 @@
-Certainly! Here's a Git README file for the backend based on our conversation:
-
----
-
 # Simple Interest Calculator Backend
 
 ## Overview
